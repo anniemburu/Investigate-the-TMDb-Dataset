@@ -15,17 +15,19 @@ In order for you to run this project you need to have the following installed:
 <li>Seaborn</li>
 
 ## Question
-The project aims to investigate the following aspects of the movie industry
+The project aims to investigate the following aspects of the movie industry.
 
-  1. Which genre is the highly produced? 
-  2. Which production companies have produced most movies?
-  3. Which actors have acted the most movies?
-  4. Which directors have directed more movies?
-  5. How many movies are produced per year? (can be per genre)
-  6. Which movies have the highest and lowest budget? Which are the top 20?
-  7. Which movies have the highest and lowest revenue? Which are the top 20?
-  8. Which movies have the highest profit and highest loss? Which are the top 20?
-  9. Which properties are associated with highly rated and profitable movies? 
+1. Which directors have directed the most movies? Top 20.
+2. Which actors/actress have acted the most movies? Top 20.
+3. Which genres have the highest release? Top 20.
+4. Which production companies have produced the most movies? Top 20.
+5. Which year has the highest movie release?
+6. Which movies have longest and shortest runtime?
+7. Which movies have the highest and lowest ratings?
+8. Which movies have the highest and lowest budget? Top 20.
+9. Which movies have the highest and lowest revenue? Top 20.
+10. Which movies have the highest profit and loss? Top 20.
+11. Which properties are associated with high profits and ratings.
   
 ## Resources
 [Pandas Documentation]("https://pandas.pydata.org/docs/user_guide/") 
