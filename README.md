@@ -5,7 +5,7 @@ This project is a project requirement for Udacity's Data Analyst Nanodegree Cour
 
 The data set being investigated contains information about 10,000 movies collected from The Movie Database (TMDb). It includes cast, user ratings, budget and revenue. The purpose for this analysis is to investigate key aspects in the movie industry therefore answering some question that are of key interest to us. 
 
-## Prerequisites
+## Prerequisite
 In order for you to run this project you need to have the following installed:
 <li>Python 3</li>
 <li>Anaconda</li>
